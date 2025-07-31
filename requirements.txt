@@ -115,7 +115,6 @@ pydantic_core==2.33.2
 pydeck==0.9.1
 pyenchant==3.2.2
 Pygments==2.19.2
-PyGObject==3.40.1
 pyOpenSSL==23.2.0
 PyQt5==5.15.4
 PyQt5-sip==12.8.1

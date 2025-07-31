@@ -72,7 +72,6 @@ jupyterlab==4.4.4
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 libevdev==0.11
-lxml==4.9.3
 Markdown==3.3.5
 Markups==3.1.1
 MarkupSafe==2.1.2

@@ -89,7 +89,6 @@ ndg-httpsclient==0.4.2
 nest-asyncio==1.6.0
 notebook==7.4.4
 notebook_shim==0.2.4
-numpy==2.0.2
 olefile==0.46
 onboard==1.4.1
 openai==1.97.2

@@ -119,7 +119,6 @@ pyOpenSSL==23.2.0
 PyQt5==5.15.4
 PyQt5-sip==12.8.1
 PyQtWebEngine==5.15.4
-pysmbc==1.0.23
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.1
 python-json-logger==3.3.0

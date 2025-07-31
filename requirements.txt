@@ -76,7 +76,6 @@ Markdown==3.3.5
 Markups==3.1.1
 MarkupSafe==2.1.2
 matplotlib-inline==0.1.7
-meld==3.20.4
 mistune==3.1.3
 msgpack==1.0.2
 multidict==6.6.3
